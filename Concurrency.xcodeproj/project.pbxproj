@@ -17,6 +17,7 @@
 		7AD7DC582A514B9300735517 /* DateTitle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD7DC572A514B9300735517 /* DateTitle.swift */; };
 		7AD7DC5B2A514DE400735517 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD7DC5A2A514DE400735517 /* HomeView.swift */; };
 		7AD7DC5D2A515BD900735517 /* FeaturedCourseCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD7DC5C2A515BD900735517 /* FeaturedCourseCard.swift */; };
+		7AD7DC5F2A5173B000735517 /* FeaturedCourseList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7AD7DC5E2A5173B000735517 /* FeaturedCourseList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		7AD7DC572A514B9300735517 /* DateTitle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateTitle.swift; sourceTree = "<group>"; };
 		7AD7DC5A2A514DE400735517 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		7AD7DC5C2A515BD900735517 /* FeaturedCourseCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedCourseCard.swift; sourceTree = "<group>"; };
+		7AD7DC5E2A5173B000735517 /* FeaturedCourseList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeaturedCourseList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 			children = (
 				7AD7DC572A514B9300735517 /* DateTitle.swift */,
 				7AD7DC5C2A515BD900735517 /* FeaturedCourseCard.swift */,
+				7AD7DC5E2A5173B000735517 /* FeaturedCourseList.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -286,6 +289,7 @@
 			files = (
 				7AD7DC2D2A51499200735517 /* ContentView.swift in Sources */,
 				7AD7DC5B2A514DE400735517 /* HomeView.swift in Sources */,
+				7AD7DC5F2A5173B000735517 /* FeaturedCourseList.swift in Sources */,
 				7AD7DC2B2A51499200735517 /* ConcurrencyApp.swift in Sources */,
 				7AD7DC582A514B9300735517 /* DateTitle.swift in Sources */,
 				7AD7DC5D2A515BD900735517 /* FeaturedCourseCard.swift in Sources */,
